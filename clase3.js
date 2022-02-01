@@ -22,7 +22,9 @@ if(tarjeta == "Visa"){
     alert("Tenes 5% de descuento con Master Card");
 } else {
     alert("En efectivo tenes 20% de decuento");
+        
 }
+
 
 do {
     cupon= prompt("Ingrese un Cupon. Ej:Cupon2022")
