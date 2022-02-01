@@ -88,10 +88,10 @@ if (extras == "si"){
             alert("Precio final con tarjeta Visa es $" + precioFinalVisa);
         } else if(tarjeta == "Mastercard"){
             alert("Tenes 5% de descuento con Master Card");
-            alert("Precio final con tarjeta Visa es $" + precioFinalMastercard);
+            alert("Precio final con tarjeta Mastercard es $" + precioFinalMastercard);
         } else {
             alert("En efectivo tenes 20% de decuento");
-            alert("Precio final con tarjeta Visa es $" + precioFinalEfectivo);
+            alert("Precio final en efectivo es $" + precioFinalEfectivo);
     }
 }
 
